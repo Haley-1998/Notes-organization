@@ -1,0 +1,94 @@
+### 盒计数法（Box Counting）是一种用于估计分形维数的常用方法。其基本思想是通过覆盖分形物体的空间，并计算覆盖该物体所需的最小盒子的数量来确定其分形维数。
+
+
+1、确定覆盖范围和分辨率:确定散点数据的覆盖范围，然后选择一系列盒子的尺寸（ϵ）。
+
+2、网格化空间：将数据空间划分为网格，每个网格单元（盒子）的边长为ϵ。
+
+3、计数盒子:统计每个ϵ下覆盖数据点的盒子数量 N(ϵ)。
+
+4、计算分形维数：通过拟合 log N(ϵ)与 log(1/ϵ)的直线斜率，计算分形维数D。
+
+```
+function fractal_dimension = calculate_fractal_dimension(X, Y)
+    % X, Y: 散点的x和y坐标
+    % box_sizes: 一个向量，包含要使用的不同盒子大小
+ 
+ 
+    min_x = min(X);
+    min_y = min(Y);
+    X = X - min_x;
+    Y = Y - min_y;
+    
+    % 计算数据的跨度
+    max_span_x = max(X) - min(X);
+    max_span_y = max(Y) - min(Y);
+    max_span = ceil(max(max_span_x, max_span_y)); % 取x和y方向上的较大值
+ 
+    % 设置盒子数量的范围和步长
+    num_boxes = 100; % 盒子数量
+    log_space = linspace(log(max_span * 0.02), log(max_span), num_boxes);
+    box_sizes = exp(log_space);
+ 
+    % 初始化存储每个盒子大小下盒子数量的数组
+    N_boxes = zeros(size(box_sizes));
+ 
+    % 遍历所有盒子大小
+    for i = 1:length(box_sizes)
+        box_size = box_sizes(i);
+ 
+        % 计算图像空间的边界
+        x_min = min(X);
+        x_max = max(X);
+        y_min = min(Y);
+        y_max = max(Y);
+ 
+        % 计算在x和y方向上需要多少个盒子
+        x_bins = ceil((x_max - x_min) / box_size);
+        y_bins = ceil((y_max - y_min) / box_size);
+ 
+        % 初始化一个和网格大小相同的矩阵，用于标记哪些格子被占据
+        occupied_grid = false(x_bins, y_bins);
+ 
+        % 遍历每个散点，判断它属于哪个格子，并标记该格子为占据
+        for j = 1:length(X)
+            x_idx = floor((X(j) - x_min) / box_size) + 1;
+            y_idx = floor((Y(j) - y_min) / box_size) + 1;
+ 
+            % 确保索引在网格范围内
+            x_idx = max(x_idx, 1);
+            x_idx = min(x_idx, x_bins);
+            y_idx = max(y_idx, 1);
+            y_idx = min(y_idx, y_bins);
+ 
+            % 标记格子为占据
+            occupied_grid(x_idx, y_idx) = true;
+        end
+ 
+        % 计算包含散点的格子数量
+        N_boxes(i) = sum(occupied_grid(:));
+    end
+ 
+    % 使用log-log图进行线性拟合，得到斜率（即分形维数）
+    log_boxes = log(N_boxes);
+    log_sizes = log(1 ./ box_sizes); 
+    p = polyfit(log_sizes, log_boxes, 1); % 线性拟合
+ 
+    fractal_dimension = p(1);
+ 
+    % 绘制拟合结果图
+    figure;
+    scatter(log_sizes, log_boxes, 'b');
+    hold on;
+    plot(log_sizes, polyval(p, log_sizes), 'r');
+    xlabel('log(1 / \epsilon)');
+    ylabel('log(N(\epsilon))');
+    title('Box Counting Method for Fractal Dimension');
+    legend('Data', sprintf('Fit: D = %.4f', fractal_dimension));
+    hold off;
+end
+```
+最小边长的选择对分形维数的值具有影响，函数中选取的是最大边长的2%。
+
+常规分形维数在1~2之间，但散点数据的分形维数小于1也具有合理性（？）。
+
