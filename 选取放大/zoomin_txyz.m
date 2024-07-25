@@ -177,9 +177,9 @@ plot_lma_ghmlls_wave(data2,init_cgdata,[],[],[],[],[],[],[]);
         set(get(axes1,'ylabel'),'string','Altitude (km)','fontsize',11);
         set(get(axes1,'xlabel'),'string','Time (s)','fontsize',11);
         if ~isequal(hm(1:6),hm2(1:6))
-            title([datetime,'-',hm(1:6),'-',hm2(1:6),'-',hm3(1:6)]);
+            title([datetime,'  ',hm(1:2),':',hm(3:4),':',hm(5:6),'-',hm2(1:2),':',hm2(3:4),':',hm2(5:6),' UTC']);
         else
-            title([datetime,'-',hm(1:8),'-',hm3(1:8)])
+            title([datetime,'  ',hm(1:2),':',hm(3:4),':',hm(5:6),' UTC'])
         end
         if ~isempty(cur)
             subtitle(['area-',num2str(area),' init h=',num2str(h),' cur t=',num2str(curt),' cur=',num2str(cur)])
