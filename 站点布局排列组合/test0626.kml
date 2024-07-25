@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+  <Document>
+    <Placemark>
+      <name>璧山一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.221389,29.586944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.234903,29.397122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>重庆</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.488889,29.522778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>江津国家农业气象试验站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.154167,29.145556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>渝北一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.6275,29.741389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.221389,29.586944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.234903,29.397122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>重庆</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.488889,29.522778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.234903,29.397122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>重庆</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.488889,29.522778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>江津国家农业气象试验站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.154167,29.145556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>渝北一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.6275,29.741389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.221389,29.586944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>江津基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.255556,29.2775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>重庆</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.488889,29.522778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>万盛一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.916667,28.983333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.116667,29.166667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江国家天气雷达站（X波段）</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.591014,28.8131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>万盛一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.916667,28.983333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.116667,29.166667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江国家天气雷达站（X波段）</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.591014,28.8131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>金佛山国家综合气象观测专项试验外场</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.146389,28.945278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>万盛一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.916667,28.983333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.116667,29.166667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江国家天气雷达站（X波段）</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.591014,28.8131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川合溪炮站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.277778,28.829444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>万盛一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.916667,28.983333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.116667,29.166667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.663125,29.428756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江国家天气雷达站（X波段）</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.591014,28.8131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>万盛一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.916667,28.983333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.116667,29.166667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>金佛山国家综合气象观测专项试验外场</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.146389,28.945278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南川庆元炮站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          107.35462188,28.956831253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>巴南一般站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.492222,29.341111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>綦江基本站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.642778,29.006389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>重庆国家高空气象观测站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.4,29.6,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>璧山</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.234903,29.397122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>江津国家农业气象试验站</name>
+      <visibility>1</visibility>
+      <Style>
+        <IconStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>../LocaSpaceViewer 4 (64位)/LocaSpaceViewer4/Resource/image/DefaultIcon.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="MarkerTextAlign">
+          <value>2</value>
+        </Data>
+        <Data name="MarkerFaceName">
+          <value>微软雅黑</value>
+        </Data>
+        <Data name="MarkerTextOption">
+          <value>16386</value>
+        </Data>
+        <Data name="MarkerFontSize">
+          <value>12.000000</value>
+        </Data>
+        <Data name="MarkerFontWeight">
+          <value>20</value>
+        </Data>
+        <Data name="MarkerOutLineColor">
+          <value>255</value>
+        </Data>
+        <Data name="MarkerFontOutlineWeight">
+          <value>86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+          106.154167,29.145556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+
