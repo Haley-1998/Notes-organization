@@ -47,34 +47,3 @@ end
     delete([extrac_dir, '\*.dat']);    
 ```
 
-## 提取图片的名称（ls，split，extractBefore）
-```matlab
-% 定义图片文件路径
-picpath = 'D:\path\';
-pic_name=ls([picpath,'\*.png']);
- 
-% 示例文件名列表
-pic_name= {
-    'image_123_part_456.png'
-    'image_789_part_012.png'
-    'photo_321_part_654.png'};
- 
-% 初始化pic_cur和pic_num数组
-pic_cur = [];
-pic_num = [];
- 
-for i = 1:size(pic_name, 1)
-    
-    temp = split(pic_name(i, :), '_');% '_'分割文件名
- 
-    pic_cur{i, 1} = str2double(temp{2});
-    pic_num{i, 1} = str2double(extractBefore(temp{4}, '.'));% 提取'.'前面部分
-end
- 
-% 显示提取结果
-disp('pic_cur:');
-disp(pic_cur);
- 
-disp('pic_num:');
-disp(pic_num);
-```
